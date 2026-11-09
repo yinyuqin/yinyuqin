@@ -3,6 +3,7 @@
 B.S. Student in Computer Science, 2023–2027
 School of Computer Science, Beijing University of Posts and Telecommunications (BUPT)
 Incoming Ph.D. student at BUPT (direct-entry, 2027), advised by Prof. Mengshi Qi
+
 Email: yinyuqin@bupt.edu.cn
 
 **Research:** continual learning · continual test-time adaptation · semantic segmentation · autonomous driving perception · vision-language models
@@ -32,5 +33,3 @@ platforms needed to test such systems reproducibly.
 ## Links
 
 - OpenReview: https://openreview.net/profile?id=~Yuqin_Yin1
-- Google Scholar:
-- DBLP:
