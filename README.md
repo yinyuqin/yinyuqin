@@ -1,7 +1,8 @@
 # Yuqin Yin (尹昱钦)
 
-M.S. Student in Computer Science
+B.S. Student in Computer Science, 2023–2027
 School of Computer Science, Beijing University of Posts and Telecommunications (BUPT)
+Incoming Ph.D. student at BUPT (direct-entry, 2027), advised by Prof. Mengshi Qi
 Email: yinyuqin@bupt.edu.cn
 
 **Research:** continual learning · continual test-time adaptation · semantic segmentation · autonomous driving perception · vision-language models
@@ -10,8 +11,9 @@ Email: yinyuqin@bupt.edu.cn
 
 ## About
 
-I am a master's student at the School of Computer Science, Beijing University of Posts and
-Telecommunications (BUPT), advised by Prof. Mengshi Qi.
+I am an undergraduate student at the School of Computer Science, Beijing University of Posts and
+Telecommunications (BUPT). I expect to receive my B.S. degree in 2027 and to continue as a
+direct-entry Ph.D. student in the same group, advised by Prof. Mengshi Qi.
 
 My research is about making perception models for autonomous driving keep learning after
 deployment: in particular continual learning and continual test-time adaptation for semantic
